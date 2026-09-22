@@ -1,0 +1,37 @@
+AI PROMPT ANALYZER - EXAMPLES
+
+Example 1
+---------
+Prompt:
+Create a step-by-step Python tutorial for a beginner. Explain each concept with a simple example and format the answer as a numbered list.
+
+Why it is good:
+- Clear goal
+- Specific audience
+- Step-by-step instruction
+- Requests examples
+- Specifies output format
+
+
+Example 2
+---------
+Prompt:
+Explain Artificial Intelligence to a beginner using simple language and three real-world examples.
+
+Why it is good:
+- Clear topic
+- Defines the audience
+- Requests simple language
+- Requests examples
+
+
+Example 3
+---------
+Prompt:
+Create a 30-day learning plan for Python for a beginner. Include daily topics, practice exercises, and a small project at the end of each week.
+
+Why it is good:
+- Clear objective
+- Specific timeframe
+- Requests a structured plan
+- Includes practical exercises
